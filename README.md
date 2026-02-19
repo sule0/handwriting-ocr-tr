@@ -12,13 +12,3 @@ Bu depo, basit bir **el yazısı tanıma (OCR)** uygulamasının Python ile ger�
 - Küçük ve taşınabilir mini proje
 
 ---
-
-## 📂 İçerik
-
-handwriting-ocr-tr/
-│
-├─ data/ # OCR için test görselleri
-├─ src/ # Kod dosyaları
-├─ results/ # Çıktı örnekleri
-├─ requirements.txt # Gerekli Python paketleri
-└─ README.md # Proje açıklaması
