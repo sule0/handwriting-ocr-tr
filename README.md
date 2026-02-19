@@ -22,7 +22,8 @@ Amaç, el yazısı içeren bir görseli işleyerek dijital metin çıktısı eld
 - NumPy
 
 > Not: Kullanılan tüm bağımlılıklar `requirements.txt` dosyasında listelenmiştir.
-
+pytesseract sadece Python wrapper’dır.
+Ayrıca bilgisayarda Tesseract OCR Engine kurulu olmalıdır.
 ---
 
 ## 🚀 Kurulum
