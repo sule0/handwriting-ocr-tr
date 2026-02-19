@@ -1,14 +1,34 @@
-# ✍️ Handwriting OCR (Türkçe) — Mini Proje
+# ✍️ Handwriting OCR (TR)
 
-Bu depo, basit bir **el yazısı tanıma (OCR)** uygulamasının Python ile gerçekleştirilmiş mini bir çalışmasıdır. Proje özellikle **Türkçe el yazısını** tanımaya odaklanır ve temel OCR akışını açık şekilde gösterir.
+Bu proje, Türkçe el yazısını metne dönüştürmeyi amaçlayan mini bir OCR (Optical Character Recognition) çalışmasıdır.  
+Amaç, el yazısı içeren bir görseli işleyerek dijital metin çıktısı elde etmektir.
+
+---
+
+## 📌 Proje Amacı
+
+- El yazısı içeren görsellerden metin çıkarmak
+- Türkçe karakter desteği sağlamak
+- Basit ve anlaşılır bir OCR akışı oluşturmak
+- Öğrenme ve deneme amaçlı mini bir uygulama sunmak
 
 ---
 
-## 📌 Özellikler
+## ⚙️ Kullanılan Teknolojiler
 
-- El yazısı içeren görsellerden metin çıkarma
-- Türkçe dil desteğiyle örnek uygulama
-- Açık, anlaşılır ve öğrenmeye yönelik kod
-- Küçük ve taşınabilir mini proje
+- Python
+- OCR kütüphaneleri (örn: pytesseract)
+- Görüntü işleme araçları (örn: OpenCV)
+- NumPy
+
+> Not: Kullanılan tüm bağımlılıklar `requirements.txt` dosyasında listelenmiştir.
 
 ---
+
+## 🚀 Kurulum
+
+1. Depoyu klonla:
+
+```bash
+git clone https://github.com/sule0/handwriting-ocr-tr.git
+cd handwriting-ocr-tr
