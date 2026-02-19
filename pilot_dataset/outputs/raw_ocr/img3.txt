@@ -1,0 +1,12 @@
+Nörlçe'nin sondan eklemeli (agglünaif) yapısı, büyük dil
+modelleri (LLM) tabanlı OCR düöneltme Sislemleri İcin
+bendersiz Zorluklar sunmaktadır. Özellikle. “geliştirilecek”
+
+ya da “ başvur mayaceiğım" gibi uaun kelimeler ve noktalama
+işaretleri (&,Ş$,g,0,01), tanıma doğruluğunu önemli ölaüde
+ettileyebilir.202U yılının Güncü geyreğinde, projenin pilot
+
+veri Seti icin 10900 telimelik bir meşin iceriği nedefplenmiştir.
+Bu verilerin toplanması , görüntülerdeki gürültü ve kontrast
+farklarını gerecek akıllı Ön işleme. algorikmalarının Simli
+test etmede tritik rol oynayacaktır.

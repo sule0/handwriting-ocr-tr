@@ -1,0 +1,12 @@
+Türkçe'nin sondan eklemeli (agglünarif) yapısı, büyük dl
+modelleri (LLM) tabanlı OCR düöneltme Sislemleri İcin
+benlersiz Zorluklar sunmaktadır. Önellikle. “geliştirilecek.”
+
+ya do " başvur mayacdğım" gibi uzun kelimeler Ve noktalama
+işaretleri (c,Ş,g,5,0,.), tanıma doğruluğunu önemli öldüde
+etüleyebilir .202U yılının üçüncü çeyreğinde, projenin pilot
+
+veri seti icin 1000 kelimelik bir metin iceriği nedeplenmiştir.
+Bu verilerin toplanması , görüntülerdeki gürültü ve kontrast
+farklarını gerecek akıllı ön işleme algoritmalarının <ttinliğidi
+test etmede tritik rol oynayacaktır.
